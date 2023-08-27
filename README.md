@@ -12,7 +12,7 @@ A web application that retrieves product data from the provided API and allows u
 
 ## Screenshots
 
-![Screenshot](./screenshot.png)
+![Screenshot](./Screenshot(126).png)
 
 ## Getting Started
 
